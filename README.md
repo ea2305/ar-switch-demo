@@ -7,6 +7,6 @@ AR.js implementation.
 
 Service of: [Switch tecno](https://switchtecno.com)
 
-
 ### LICENSE
+
 MIT.
